@@ -18,10 +18,10 @@ Este projeto permite enviar emails automaticamente a partir de uma planilha Exce
    ```bash
    pip install pandas openpyxl
 4. Coloque sua senha de app no código:
-senha = "SUA_SENHA_DE_APP_AQUI"
+`senha = "SUA_SENHA_DE_APP_AQUI"`
 
 6. Execute o script no terminal: 
-python enviar_email.py
+`python enviar_email.py`
 
 ## 📌 Exemplo de Uso
 Enviar mensagens personalizadas em massa.
