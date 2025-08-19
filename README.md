@@ -24,6 +24,6 @@ Este projeto permite enviar emails automaticamente a partir de uma planilha Exce
 `python enviar_email.py`
 
 ## 📌 Exemplo de Uso
-Enviar mensagens personalizadas em massa.
-Automatizar respostas para clientes.
-Disparar comunicados internos.
+- Enviar mensagens personalizadas em massa.
+- Automatizar respostas para clientes.
+- Disparar comunicados internos.
